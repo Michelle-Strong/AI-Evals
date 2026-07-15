@@ -43,6 +43,10 @@ _This rubric is the whole point — the judge only scores against what you decid
 _Two screenshots: (1) your eval setup showing the dataset + judge, (2) your starter dataset rows. Paste image links, or commit images under `01-evaluation-strategy/screenshots/` and reference the path._
 
 | What it shows | Screenshot / link |
+<img width="523" height="336" alt="image" src="https://github.com/user-attachments/assets/983f5eb2-de65-4f87-b15d-b0181b576db4" />
+<img width="1690" height="726" alt="image" src="https://github.com/user-attachments/assets/110c6b15-93ea-4915-a9fd-35fbad0a37ff" />
+
+
 |---|---|
 | Eval setup (dataset + judge) | _…_ |
 | Starter dataset rows | _…_ |
