@@ -12,6 +12,11 @@
 
 ## Scored rows
 
+
+[pg__gpt-4.1-mini__84d6b183.csv](https://github.com/user-attachments/files/30097590/pg__gpt-4.1-mini__84d6b183.csv)
+
+<img width="1559" height="591" alt="image" src="https://github.com/user-attachments/assets/7a375a2f-5813-41f4-bf72-7d932732fdaa" />
+
 _Paste your audited rows. Tag each against a Trust Metric from your Strategy Canvas; keep the ones that reveal a real failure mode._
 
 | # | Input | Output | Pass / Fail | Trust Metric tag | Note (why it failed) |
