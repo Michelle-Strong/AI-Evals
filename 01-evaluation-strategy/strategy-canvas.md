@@ -1,17 +1,43 @@
 # Evaluation Strategy Canvas
 
-> Module 1 · Evaluation Strategy · repo file; feeds the Strategy Canvas slide of your final pitch deck
->
-> The one-page bet that frames everything else: what you're evaluating, why it matters, and what "good enough to ship" means.
-> This is a living document, fill in what you can now and refine it as the course progresses.
+# AI Evaluation Strategy Canvas
 
-## 1. The feature under evaluation
+> Repo file `ai-evals/01-evaluation-strategy/strategy-canvas.md` (the repo is your submission).
+> Becomes the Strategy Canvas slide of the final pitch deck you assemble in Module 6.
 
-_What LLM-powered feature are you evaluating? Describe the input, the output, and the user._
+## 1. Product Strategy, The Context
 
-- **Input:** _What does the user (or system) provide?_
-- **Output:** _What does the feature produce?_
-- **User & job-to-be-done:** _Who relies on it, and for what?_
+**Target user:** VP-level Strategists and Product Leaders at the top 50 Enterprise who pay a premium for verified market intelligence — they are high-paying, low-patience, high-scrutiny customers.
+
+**Key use case:** Rapidly extracting specific, verified insights (e.g., comparing competitor pricing models or summarizing G2 reviews) without manual data digging, using trust-worthy plain-language so they can move on their roadmap decisions at pace.
+
+
+**Value proposition:** Personalized, instant answers based on verified data, dramatically reducing the time spent finding and synthesizing information for high-stakes decisions and strategic roadmaps.
+
+## 2. Measurements, The Execution
+
+**User promise.** For VP-level Enterprise Strategists, Ascend IQ promises to deliver verified, citation-backed competitive intelligence in under 5 seconds so that they hit their Q4 roadmap milestones without manual data digging.
+
+**Top 3 trust metrics:**
+- **Latency**, Response speed (P95 / P99). Slow kills engagement.
+- **Hallucination Rate**, % of outputs that are confidently false or fabricated.
+- **Fairness**, Quality consistency across user groups, geos, languages.
+
+**Why these three:** • Hallucination, VP-level clients pay $50k+ for verified data; one fabricated stat ends the contract.
+• Latency, <5s response is the only thing that beats manual digging.
+• Fairness, consistent factual quality across English, German & French underpins our European Enterprise expansion.
+
+## 3. Strategic Trade-Offs, The Cost
+
+### Trade-off 1 · Hallucination Rate ↔ Latency
+We prioritize Hallucination Rate over Latency because Ascend IQ serves VPs making $1M+ strategic decisions; a single fabricated competitor stat ends a $50k contract, whereas a 5-second wait during a roadmap review meeting breaks the 'faster than my analyst' mental model that justifies the premium price, the risk is reverting to manual digging for that session.
+
+### Trade-off 2 · Fairness ↔ Hallucination Rate
+We prioritize Fairness over peak Hallucination Rate because our European Enterprise expansion depends on consistent factual quality across English, German, and French, a bounded, monitored increase (no more than 5% relative) in non-English hallucination rate is acceptable while we close the gap, because English-market contracts are not put at risk by this trade-off.
+
+---
+
+
 
 ## 2. Why evals: the cost of being wrong
 
