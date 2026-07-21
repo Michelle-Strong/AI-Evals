@@ -21,7 +21,9 @@ _Paste your audited rows. Tag each against a Trust Metric from your Strategy Can
 # Ascend IQ Failure Audit, Module 2
 
 ## One-line summary, total confirmed failures + count per Trust Metric tag
-
+Total of 3 fails relating to Hallucination (out of 5)
+Total of 4 fails relating to Robustness (out of 13)
+2 fails overridden
 _…_
 
 ## Audit rows (match by query)
