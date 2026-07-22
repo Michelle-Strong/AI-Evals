@@ -21,7 +21,7 @@
 
 ## Where the failure was caught, and what it means
 
-> Drop your one-line interpretation here. Was it the win (Code/Safety caught it), the insight (only the Judge caught it), or the gap (nothing caught it)?
+> Don't need expensive LLM Judge as Safety Layer 2 caught it! 
 
 ## What I'd ship next
 
