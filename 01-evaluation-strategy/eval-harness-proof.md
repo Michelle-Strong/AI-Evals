@@ -24,7 +24,7 @@ Write a 100-word narrative summary highlighting wins first, then risks and next 
 
 _What dataset are you evaluating, which evaluator/metric, and which model judges it?_
 
-> Example: dataset `Module1Output`, evaluator `Conciseness (LLM-as-a-Judge)`. Generator = a small model from Provider X; **judge = a small model from a different family (Provider Y)** to avoid self-preference bias.
+> dataset `Module1Output`, evaluator `Conciseness (LLM-as-a-Judge)`. Generator = gpt-4o-mini
 
 ## Cold-start — the prompt you used to seed a starter dataset
 
