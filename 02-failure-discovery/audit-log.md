@@ -64,4 +64,5 @@ _…_
 
 ## Patterns spotted
 
-_Quick notes on clusters you're seeing. These become the named failure modes in `failure-taxonomy.md`._
+Of the 20 samples main fails relate to Hallucination & Robustness. Quick view may be a result of incorrect API or RAG calls.  And firmer guardrails may be needed with tone of language which need to be levelled more towards a professional VP standard.
+
