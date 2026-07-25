@@ -66,13 +66,10 @@ Safety/policy - Zero security/leakage incidents.
 
 Tone/format - >95% of pass rate by LLM-Judge
 
-
-
-
 ## 8. Risks & unknowns
 
-_What might this canvas be wrong about? What will you learn in Module 2's failure discovery?_
+- Correctness/Robustness may be under-specified
+- The Fairness band may be arbitrary - would need to check with real humans in those countries.
+- Latency and correctness may not actually trade off the way its assumed.
+- Safety/policy risks may be broader than security leakage + competitor claims
 
-## Link to full artifact
-
-_[link / screenshot]_
