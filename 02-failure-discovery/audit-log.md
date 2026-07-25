@@ -52,11 +52,6 @@ _…_
 | Does Competitor Y integrate with HubSpot? | 0 | — | #ROBUSTNESS | The Agent Response incorrectly claims that Competitor Y offers a seamless integration with HubSpot directly, while the Ground Truth specifies that integration is available only via a partnership with Zapier. This misrepresentation could lead users to misunderstand the nature of the integration. |
 
 
-| # | Input | Output | Pass / Fail | Trust Metric tag | Note (why it failed) |
-|---|---|---|---|---|---|
-| 1 | _…_ | _…_ | _…_ | _…_ | _…_ |
-| 2 | _…_ | _…_ | _…_ | _…_ | _…_ |
-
 ## Patterns spotted
 
 _Quick notes on clusters you're seeing. These become the named failure modes in `failure-taxonomy.md`._
