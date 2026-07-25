@@ -6,9 +6,9 @@
 
 ## Audit setup
 
-- **Source of examples:** _e.g. 20 real traces in LangSmith, adversarial prompts, support tickets_
-- **Sample size:** _…_
-- **What "good" means here:** _link back to your Strategy Canvas definition of good_
+- **Source of examples:** 20 real Ascend IQ Beta logs
+- **Sample size:** 20
+- **What "good" means here:** 
 
 ## Scored rows
 
