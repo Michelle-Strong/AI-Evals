@@ -41,8 +41,6 @@ We prioritize Fairness over peak Hallucination Rate because our European Enterpr
 
 ## 2. Why evals: the cost of being wrong
 
-_What happens when this feature fails silently? (e.g. wrong answer ships, trust erodes, compliance risk.)_
-
 Ascend IQ's entire value proposition rests on being right, fast, unbiased — evals exist because failure here is silent by design. The product should return a confident, well-formatted, plain-language answer that builds trust with discerning VP-level clients.
 If a wrong answer is shipped the error may not surface until a competitor, analyst, or colleague contradicts it — often weeks later, after a decision has already been made.
 Because the product is marketed as "verified, citation-backed," a single caught hallucination doesn't just cost one answer — it could cast doubt on every prior answer the VP took on faith. This is a premium-trust product; trust here wouldn't just degrade gradually, it would collapses immediately.
