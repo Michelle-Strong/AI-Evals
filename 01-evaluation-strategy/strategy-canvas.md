@@ -39,14 +39,15 @@ We prioritize Fairness over peak Hallucination Rate because our European Enterpr
 
 
 
-## 2. Why evals: the cost of being wrong
+## 4. Why evals: the cost of being wrong
 
 Ascend IQ's entire value proposition rests on being right, fast, unbiased — evals exist because failure here is silent by design. The product should return a confident, well-formatted, plain-language answer that builds trust with discerning VP-level clients.
 If a wrong answer is shipped the error may not surface until a competitor, analyst, or colleague contradicts it — often weeks later, after a decision has already been made.
 Because the product is marketed as "verified, citation-backed," a single caught hallucination doesn't just cost one answer — it could cast doubt on every prior answer the VP took on faith. This is a premium-trust product; trust here wouldn't just degrade gradually, it would collapses immediately.
 If a "citation-backed" answer cites a source that doesn't say what's claimed (or doesn't exist), it could represent risk for both Ascend IQ and the customer if that intelligence informs a public or regulatory-facing decision.
 
-## 3. Quality dimensions
+## 5. Quality dimensions
+
 
 _Which dimensions actually matter here, and how do you weight them?_
 
@@ -56,7 +57,7 @@ _Which dimensions actually matter here, and how do you weight them?_
 | _Safety / policy_ | _…_ | _…_ |
 | _Tone / format_ | _…_ | _…_ |
 
-## 4. Evaluator strategy
+## 6. Evaluator strategy
 
 _For each dimension: human review, code/heuristic check, or LLM-as-judge? Why?_
 
@@ -64,11 +65,11 @@ _For each dimension: human review, code/heuristic check, or LLM-as-judge? Why?_
 |---|---|---|
 | _…_ | _human / code / LLM-judge_ | _…_ |
 
-## 5. "Good enough to ship": the bar
+## 7. "Good enough to ship": the bar
 
 _What threshold per dimension makes this shippable? What's the non-negotiable floor?_
 
-## 6. Risks & unknowns
+## 8. Risks & unknowns
 
 _What might this canvas be wrong about? What will you learn in Module 2's failure discovery?_
 
