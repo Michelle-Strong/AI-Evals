@@ -8,7 +8,17 @@
 
 - **Source of examples:** 20 real Ascend IQ Beta logs
 - **Sample size:** 20
-- **What "good" means here:** 
+- **What "good" means here:**
+
+Correctness/Robustness - >97% claims fully source-supported.
+
+Fairness - non-English hallucination rate within 5% of baseline
+
+Latency - P95 <5s, P99 <8s
+
+Safety/policy - Zero security/leakage incidents.
+
+Tone/format - >95% of pass rate by LLM-Judge
 
 ## Scored rows
 
