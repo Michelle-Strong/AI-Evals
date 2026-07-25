@@ -51,7 +51,15 @@ If a "citation-backed" answer cites a source that doesn't say what's claimed (or
 
 _Which dimensions actually matter here, and how do you weight them?_
 
+
+
+
+
 | Dimension | Why it matters | How you'd measure it |
+
+
+
+
 |---|---|---|
 | _Correctness / faithfulness_ | _…_ | _…_ |
 | _Safety / policy_ | _…_ | _…_ |
@@ -59,11 +67,10 @@ _Which dimensions actually matter here, and how do you weight them?_
 
 ## 6. Evaluator strategy
 
-_For each dimension: human review, code/heuristic check, or LLM-as-judge? Why?_
+<img width="874" height="310" alt="image" src="https://github.com/user-attachments/assets/ab6f79f6-575a-4a38-b66c-61931745eecf" />
 
-| Dimension | Evaluator type | Rationale |
-|---|---|---|
-| _…_ | _human / code / LLM-judge_ | _…_ |
+
+
 
 ## 7. "Good enough to ship": the bar
 
