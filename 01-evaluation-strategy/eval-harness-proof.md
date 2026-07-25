@@ -30,7 +30,7 @@ _What dataset are you evaluating, which evaluator/metric, and which model judges
 
 _You don't have production data yet. Paste the prompt you gave a chatbot to generate ~20 example rows so you can start evaluating today._
 
-> Example: "Generate 20 example rows for evaluating email-summary quality. Each row: input email + candidate summary + a first-pass label (good/bad) + one-line reason. Make ~half concise/faithful (good) and half verbose or inaccurate (bad). Return as a markdown table."
+> Generate 20 example rows for evaluating email-summary quality. Each row: input email + candidate summary + a first-pass label (good/bad) + one-line reason. Make ~half concise/faithful (good) and half verbose or inaccurate (bad). Return as a markdown table.
 
 ## Your definition of good vs bad (golden-set criteria)
 
