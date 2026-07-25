@@ -56,7 +56,18 @@ If a "citation-backed" answer cites a source that doesn't say what's claimed (or
 
 ## 7. "Good enough to ship": the bar
 
-_What threshold per dimension makes this shippable? What's the non-negotiable floor?_
+Correctness/Robustness - >97% claims fully source-supported.
+
+Fairness - non-English hallucination rate within 5% of baseline
+
+Latency - P95 <5s, P99 <8s
+
+Safety/policy - Zero security/leakage incidents.
+
+Tone/format - >95% of pass rate by LLM-Judge
+
+
+
 
 ## 8. Risks & unknowns
 
