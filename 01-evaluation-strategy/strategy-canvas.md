@@ -43,6 +43,11 @@ We prioritize Fairness over peak Hallucination Rate because our European Enterpr
 
 _What happens when this feature fails silently? (e.g. wrong answer ships, trust erodes, compliance risk.)_
 
+Ascend IQ's entire value proposition rests on being right, fast, unbiased — evals exist because failure here is silent by design. The product should return a confident, well-formatted, plain-language answer that builds trust with discerning VP-level clients.
+If a wrong answer is shipped the error may not surface until a competitor, analyst, or colleague contradicts it — often weeks later, after a decision has already been made.
+Because the product is marketed as "verified, citation-backed," a single caught hallucination doesn't just cost one answer — it could cast doubt on every prior answer the VP took on faith. This is a premium-trust product; trust here wouldn't just degrade gradually, it would collapses immediately.
+If a "citation-backed" answer cites a source that doesn't say what's claimed (or doesn't exist), it could represent risk for both Ascend IQ and the customer if that intelligence informs a public or regulatory-facing decision.
+
 ## 3. Quality dimensions
 
 _Which dimensions actually matter here, and how do you weight them?_
