@@ -48,29 +48,11 @@ If a "citation-backed" answer cites a source that doesn't say what's claimed (or
 
 ## 5. Quality dimensions
 
-
-_Which dimensions actually matter here, and how do you weight them?_
-
-
-
-
-
-| Dimension | Why it matters | How you'd measure it |
-
-
-
-
-|---|---|---|
-| _Correctness / faithfulness_ | _…_ | _…_ |
-| _Safety / policy_ | _…_ | _…_ |
-| _Tone / format_ | _…_ | _…_ |
+<img width="908" height="359" alt="image" src="https://github.com/user-attachments/assets/5e9a3362-e56f-4cd2-b5f5-00d14e366edb" />
 
 ## 6. Evaluator strategy
 
 <img width="874" height="310" alt="image" src="https://github.com/user-attachments/assets/ab6f79f6-575a-4a38-b66c-61931745eecf" />
-
-
-
 
 ## 7. "Good enough to ship": the bar
 
