@@ -19,7 +19,7 @@
 
 ## #1 Risk · Business Impact Statement
 
-> This failure matters because fabricated pricing in Ascend IQ responses could result in potential contract disputes, future renewals and could expose Ascend Analytics in to legal liabilities
+> This failure matters because fabricated pricing in Ascend IQ responses could result in potential contract disputes, future renewals and could expose Ascend Analytics to legal liabilities.
 
 ## Defending the Prioritization
 
