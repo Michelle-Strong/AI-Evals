@@ -6,7 +6,7 @@
 
 ## Audit setup
 
-- **Source of examples:** 20 real Ascend IQ Beta logs
+- **Source of examples:** Output of Ascend IQ Beta logs
 - **Sample size:** 20
 - **What "good" means here:**
 
